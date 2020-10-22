@@ -1,0 +1,62 @@
+.logo {
+	width: 60px;
+	height: 60px;
+	display: inline-block;
+	padding-top: 30px;
+}
+.productimg {
+	width: 150px;
+	height: 200px;
+	display: inline-block;
+}
+.navbar-li {
+	display: inline-block;
+	padding-left: 50px;
+	vertical-align: middle;
+	padding-bottom: 30px;
+	color: black;
+	font-size: 18px;
+}
+.navbar {
+	display: inline-block;
+	vertical-align: middle;
+}
+h3 {
+	font-size: 22px;
+	display: inline-block;
+	padding-bottom: 30px;
+
+}
+.productsection {
+	display: inline-block;
+
+}
+p {
+	display: inline-block;
+	width: 400px;
+}
+h4 {
+	font-size: 20px;
+	padding-bottom: 30px;
+}
+section {
+	display: inline-block;
+	vertical-align: middle;
+}
+.section2 {
+	padding-left: 100px;
+}
+.footerbox {
+	color: black;
+	padding-top: 10px;
+	display: inline-block;
+}
+.searchsection {
+	color: black;
+}
+footer {
+	padding-top: 100px;
+}
+body {
+	padding-left: 50px;
+}
